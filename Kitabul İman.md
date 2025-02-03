@@ -1,12 +1,7 @@
----
-share: "true"
----
-
-
 [[BuhariFormat|BuhariFormat]]
 ## Kitabul İman
 
-### 1- İman Ve (Sav) Allah Rasûlu Hz.lerinin: “İslâm beş şey üzerine bina edilmiştir”... Kavlia
+### 1- İman Ve (Sav) Allah Rasûlu Hz.lerinin: “İslâm beş şey üzerine bina edilmiştir”... Kavli
 
 
 İman, dil ile söylemek ve organlarla işlemektir. İman artar ve eksilir. Allah z.c. Hz.leri şöyle buyurdu:
